@@ -6,7 +6,7 @@
         a) initation-For initiation process group, you have 2 important processes;
            i)Project charter- This  is a fairly simple document outlining a few thingsit would include
              my objectives, scope, rough idea for the cost and time, key stakeholders and milestones.
-           ii)Stakeholders identifiction-At this stage, you will again keep it very simple. You will not categorize all the stakeholders                  based on their influence it includes the Sponsors.
+           ii)Stakeholders identifiction-At this stage, you will again keep it very simple. You will not categorize all the stakeholder based on their influence it includes the Sponsors.
         b)Planning-Planning is a lot more detailed and comprehensive than initiation
           we are looking to find answers to 3 main questions;
 
