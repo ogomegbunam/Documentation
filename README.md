@@ -22,7 +22,7 @@
           project objectives or in a Gantt chart,Gantt chart is a very easy way to list activities or work packages in a suitable
           timescale. Each work package or activity is represented by a bar and the position and length of the bar show us the start,
           duration, and end date of the activity.
-         d) Management and Controlling-Monitoring and controlling means measuring the performance of your project against the plan, your             change requests, and making sure you are hitting your KPIs if you have included them in the plan.
+         d) Management and Controlling-Monitoring and controlling means measuring the performance of your project against the plan, your change requests, and making sure you are hitting your KPIs if you have included them in the plan.
          e) Closing-So, what do we do now?
            Well, what you do is really customizable to the needs and complexity of your project. But in general, these are 
            good starting points.
@@ -31,7 +31,7 @@
             from the client.
         Two; Finish procurements. Meaning, you need to make the final payments and complete your cost records.
         Three; Gather your final lessons learned. This is basically documenting what went wrong and what 
-              did we learn from it. You probably can’t see it on the camera, but this boat isn’t perfect. The bow of the boat is                       actually not straight. It’s leaning towards the port side, left side. Yeah a few lessons learned here.   
+              did we learn from it.    
         Four; You release resources, let your team members go back to their own teams.
         five; finally… You're done.
         
