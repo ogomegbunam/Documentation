@@ -1,4 +1,6 @@
-# Documentation on my first week in Finch Scoradia as an intent
+# Documentation on  Finch Scoradia as an intent
+
+WEEK 1
     DAY 1
     I learnt the basics of project management and it's basics concepts which are
      1) Project-which is a temporal objective to profer a unique solution
